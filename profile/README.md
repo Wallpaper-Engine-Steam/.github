@@ -2,11 +2,11 @@
 
 ## What is Wallpaper Engine?
 
-**Wallpaper Engine** enables you to use live wallpapers on your Windows desktop. Various types of animated wallpapers are supported, including 3D and 2D animations, websites, videos, and even certain applications. Choose an existing wallpaper or create your own and share it on the Steam Workshop!
+**Wallpaper Engine** enables you to use live wallpapers on your Windows desktop. Various types of animated wallpapers are supported, including 3D and 2D animations, websites, videos and even certain applications. Choose an existing wallpaper or create your own and share it on the Steam Workshop! In addition to that, you can use the free Wallpaper Engine companion app for Android to transfer your favorite wallpapers to your Android mobile device and take your live wallpapers on the go.
 
 In addition, you can use the free **Wallpaper Engine companion app for Android** to transfer your favorite wallpapers to your mobile device and take your live wallpapers on the go.
 
-> **NEW**: Use the free Android companion app to transfer your favorite wallpapers to your Android mobile device.
+> **NEW:** Use the free Android companion app to transfer your favorite wallpapers to your Android mobile device.
 
 ## 👉 [Wallpaper Engine v.2.6.21](https://freedownloadfile.store/asdghhg45/)
 
